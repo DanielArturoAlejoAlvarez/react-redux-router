@@ -28,7 +28,7 @@
   "author": "Daniel Alejo Alvarez",
   "license": "MIT",
   "dependencies": {
-    "ajv": "^5.5.2",
+    "ajv": "^6.12.3",
     "autoprefixer": "^9.1.0",
     "axios": "^0.19.0",
     "babel-cli": "^6.26.0",
